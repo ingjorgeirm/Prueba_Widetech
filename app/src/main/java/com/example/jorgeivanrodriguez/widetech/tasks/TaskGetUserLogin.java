@@ -91,6 +91,8 @@ public class TaskGetUserLogin extends AsyncTask<String,Void,List<HashMap<String,
         AlertDialog.Builder  alert = new AlertDialog.Builder(
                 context);
 
+        
+
         alert.setIcon(R.drawable.send)
                 .setMessage(R.string.msjGetUserLogin)
                 .setCancelable(false)
