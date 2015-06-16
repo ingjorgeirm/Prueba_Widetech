@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Widetech</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">PASS</string>
+    <string name="id">Cliente Id</string>
+    <string name="email">Email</string>
+    <string name="password2">Password</string>
+    <string name="menu_continuar">Continuar</string>
+    <string name="valUsr">Por favor dijite el USR correctamente</string>
+    <string name="valPass">Por favor dijite el Pass correctamente</string>
+    <string name="valClientId">Por favor dijite el Client Id correctamente</string>
+    <string name="valEmail">Por favor dijite el Email Id correctamente</string>
+    <string name="valPassword">Por favor dijite el Password correctamente</string>
+    <string name="msjGetUserLogin">Se acaba de loguear correctamente</string>
+    <string name="msjGetUserLoginNotFound">Datos incorrectos, por favor verifique sus datos y vuelva a intentar</string>
+    <string name="continuar">Continuar</string>
+    <color name="valField">#E3F6CE</color>
+    <string name="conexionProblem">Hay Problemas en la conexión, por favor intentelo mas tarde</string>
+    <string name="conexion">Problemas en la conexión</string>
+    <string name="salir">Salir</string>
+</resources>
